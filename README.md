@@ -62,6 +62,22 @@
 </p>
 
 ---
+---
+
+### 💼 Internship Experience
+
+🧠 **Agiliz Tech**, Bangalore (Jan 2023 – Mar 2023)  
+- Heart Disease Prediction using Logistic Regression  
+- Explored core ML techniques & real-world data handling
+
+🤖 **Infosys Springboard Internship 5.0** (Dec 2024 – Feb 2025)  
+- Developed a GenAI-based interview question generator  
+- Integrated NLP & custom logic for HR platforms
+
+🩺 **Knowledge Solutions India** (Nov 2023 – Dec 2023)  
+- Built chatbot for a medical website using Prompt Engineering  
+- Focused on GenAI pipelines & user-friendly conversations
+
 
 ### 🌟 Featured Projects
 
