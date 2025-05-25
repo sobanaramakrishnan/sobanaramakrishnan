@@ -62,7 +62,6 @@
 </p>
 
 ---
----
 
 ### 💼 Internship Experience
 
