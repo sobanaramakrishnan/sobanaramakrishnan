@@ -78,6 +78,7 @@
 - Focused on GenAI pipelines & user-friendly conversations
 
 
+---
 ### 🌟 Featured Projects
 
 - 💓 Heart Disease Prediction – Logistic Regression model predicting heart conditions  
