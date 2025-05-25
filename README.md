@@ -116,8 +116,9 @@
 ### 🎞️ Fun While Coding
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" />
 </p>
+
 
 ---
 
