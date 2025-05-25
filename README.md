@@ -17,7 +17,7 @@
 
 ### 👩‍💻 About Me
 
-🎓 Final Year B.Tech Student - Artificial Intelligence & Data Science  
+🎓 Completed B.Tech Student - Artificial Intelligence & Data Science  
 💡 Passionate about Machine Learning, Deep Learning, Generative AI, and NLP  
 🔬 Innovator with experience in building real-world AI projects  
 🌱 Currently learning: Prompt Engineering, AI Model Optimization  
